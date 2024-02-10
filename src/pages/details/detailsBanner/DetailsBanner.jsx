@@ -11,7 +11,7 @@ import CircleRating from "../../../components/circleRating/CircleRating";
 import Img from "../../../components/lazyLoadImage/Img.jsx";
 import PosterFallback from "../../../assets/no-poster.png";
 import Genres from "../../../components/carousel/genres/Genres.jsx";
-import { PlayIcon } from "../PlayBtn.jsx";
+import { PlayIcon } from "../Playbtn.jsx";
 import VideoPopup from "../../../components/videoPopup/VideoPopup.jsx";
 
 const DetailsBanner = ({ video, crew }) => {
