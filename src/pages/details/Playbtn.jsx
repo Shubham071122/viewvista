@@ -1,6 +1,6 @@
 import React from "react";
 
-export const PlayIcon = () => {
+const PlayIcon = () => {
     return (
         <svg
             version="1.1"
@@ -37,3 +37,5 @@ export const PlayIcon = () => {
         </svg>
     );
 };
+
+export default PlayIcon;
